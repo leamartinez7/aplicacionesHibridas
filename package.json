@@ -1,0 +1,12 @@
+{
+  "name": "aplicacioneshibridas",
+  "version": "1.0.0",
+  "description": "- Configurar el usuario\r ``` bash\r     git config --global user.name \"leamartinez7\"\r     git config --global user.email \"leandro.amartinez@davinci.edu.ar\"\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
